@@ -1,4 +1,4 @@
-port module Main exposing (..)
+module Main exposing (..)
 
 import Html exposing (programWithFlags, div, text, button, h2)
 import Html.Attributes exposing (..)
