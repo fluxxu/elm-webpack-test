@@ -1,0 +1,17 @@
+{
+  "name": "elm-webpack",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "webpack-dev-server --hot --inline --port 3000"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "elm-webpack-loader": "^4.0.0",
+    "file-loader": "^0.9.0",
+    "webpack": "^1.14.0"
+  }
+}
